@@ -1,2 +1,2 @@
 # dsa_impl
-Implementation of common data structures and algorithms in multiple languages
+Practicing my data structure and algorithm skills while also gaining more experience in multiple languages.
